@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dipan Banik</h1>
-<h3 align="center">A passionate data science soul</h3>
+<h1 align="left">Hi 👋, I'm Dipan Banik</h1>
+<h3 align="left">A passionate data science soul</h3>
 
 <img align="center" alt="Coding" width="400" src="https://github.com/Dion11235/readme_resources/blob/main/1_9V-evbZYHDeQGB3MS03bcg.gif">
 
