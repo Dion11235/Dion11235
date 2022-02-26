@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Vision, Optimization techniques, Deep Learning models**
 
-- 👯 I’m looking to collaborate on **medical image processing**
-
-- 🤝 I’m looking for help with **clinical lab reports**
+- 👯 I’m looking to collaborate on **data science business and healthcare problems**
 
 - 💬 Ask me about **Python**
 
