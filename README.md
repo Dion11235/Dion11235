@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, it's Dipan here.</h1>
 
-- 🔭 I’m currently working on **Arrythmia Prediction**
+- 🔭 I’m currently working on **Pharma AI**
 
 - 🌱 I’m currently learning **Computer Vision, Optimization techniques, Deep Learning models**
 
