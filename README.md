@@ -1,14 +1,5 @@
 <h1 align="left">Hi 👋, it's Dipan here.</h1>
 
-- 🔭 I’m currently working on **Pharma AI**
-
-- 🌱 I’m currently learning **Computer Vision, Optimization techniques, Deep Learning models**
-
-- 👯 I’m looking to collaborate on **data science business and healthcare problems**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **dipanbanik104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
